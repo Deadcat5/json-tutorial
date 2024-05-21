@@ -1,5 +1,7 @@
 # 从零开始的 JSON 库教程
 
+learn
+
 * Milo Yip
 * 2016/9/15
 
